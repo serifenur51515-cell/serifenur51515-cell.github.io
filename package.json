@@ -1,0 +1,27 @@
+{
+  "name": "serifenur51515-cell.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serifenur51515-cell/serifenur51515-cell.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/serifenur51515-cell/serifenur51515-cell.github.io/issues"
+  },
+  "homepage": "https://github.com/serifenur51515-cell/serifenur51515-cell.github.io#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3"
+  }
+}
